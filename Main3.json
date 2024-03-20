@@ -23,7 +23,7 @@
   },{
     id: 16,
     title: "인절미 마카롱",
-    content: "고소한 콩가루크림으로 만든 인절미 마카롱",
+    content: "고소한 콩가루 크림으로 만든 인절미 마카롱",
     price: 1600,
     thumbnail: "https://jonghoonkim1004.github.io/FirstReactData/img/Product/016/016_1.jpg",
     url: ["https://jonghoonkim1004.github.io/FirstReactData/img/Product/016/016_1.jpg","https://jonghoonkim1004.github.io/FirstReactData/img/Product/016/016_2.jpg", "https://jonghoonkim1004.github.io/FirstReactData/img/Product/collection_m.jpg","https://jonghoonkim1004.github.io/FirstReactData/img/Product/info_del.jpg"]
